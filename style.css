@@ -1,0 +1,31 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+   text-align: center;
+}
+
+.btn{
+    padding: 10px 20px;
+    background-color:burlywood;
+    font-size: 1.3rem;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+    cursor: pointer;
+
+}
+
+.btn:hover{
+    background-color: rgb(239, 140, 10);
+}
+
+.Hero{
+    background-color: grey;
+    height: 97vh;
+    width: 98vw;
+}
